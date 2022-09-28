@@ -8,7 +8,7 @@ public class TheKWeakest {
 
     public static void main(String[] args) {
 
-        int a = 0;
+        int a = 1;
 
         int[][] matrix = { {1,1,0,0,0}, {1,1,1,1,0}, {1,0,0,0,0}, {1,1,0,0,0}, {1,1,1,1,1} };
         int k = 3;
