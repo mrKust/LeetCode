@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(climbStairs(44));
     }
-    
+
     public static int climbStairs(int n) {
 
         helper(n);
